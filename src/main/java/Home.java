@@ -1,4 +1,7 @@
-
+/**
+ *
+ * @author ohene-Darkoh frank 10890424
+ */
 import java.awt.Color;
 import java.math.BigInteger;
 import java.security.MessageDigest;
