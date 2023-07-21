@@ -30,7 +30,7 @@ import java.util.Vector;
 
 /**
  *
- * @author annan
+ * @author ohene-Darkoh frank 10890424
  */
 public class Home extends javax.swing.JFrame {
 
